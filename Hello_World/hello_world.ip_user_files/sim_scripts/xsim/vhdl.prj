@@ -1,0 +1,29 @@
+vhdl xpm  \
+"D:/VIVADO/Vivado/2024.1/data/ip/xpm/xpm_VCOMP.vhd" \
+
+vhdl axi_lite_ipif_v3_0_4  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/66ea/hdl/axi_lite_ipif_v3_0_vh_rfs.vhd" \
+
+vhdl lib_cdc_v1_0_3  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/2a4f/hdl/lib_cdc_v1_0_rfs.vhd" \
+
+vhdl interrupt_control_v3_1_5  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/d8cc/hdl/interrupt_control_v3_1_vh_rfs.vhd" \
+
+vhdl axi_gpio_v2_0_33  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/4208/hdl/axi_gpio_v2_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../hello_world.gen/sources_1/bd/design_1/ip/design_1_axi_gpio_0_0/sim/design_1_axi_gpio_0_0.vhd" \
+
+vhdl fifo_generator_v13_2_10  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/1443/hdl/fifo_generator_v13_2_rfs.vhd" \
+
+vhdl proc_sys_reset_v5_0_15  \
+"../../../hello_world.gen/sources_1/bd/design_1/ipshared/3a26/hdl/proc_sys_reset_v5_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../hello_world.gen/sources_1/bd/design_1/ip/design_1_rst_ps8_0_99M_0/sim/design_1_rst_ps8_0_99M_0.vhd" \
+
+# Do not sort compile order
+nosort
