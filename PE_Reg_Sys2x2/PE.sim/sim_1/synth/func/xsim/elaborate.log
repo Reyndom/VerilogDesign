@@ -1,0 +1,24 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/VIVADO/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot register_tb_func_synth xil_defaultlib.register_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-2861] module 'register' does not have a parameter named WIDTH [D:/Coolyeah/Semester 7/MSIB 7/Polytron/Tugas Pak Sutisna/Support File/register_tb.v:34]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.BUFGCE(CE_TYPE="ASYNC",SIM_DEVIC...
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1(INIT=2'b01)
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.FDCE_default
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.register_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot register_tb_func_synth

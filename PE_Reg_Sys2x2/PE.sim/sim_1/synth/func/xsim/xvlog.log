@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Coolyeah/Semester 7/MSIB 7/Polytron/Tugas Pak Sutisna/PE_Desain/PE.sim/sim_1/synth/func/xsim/register_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Coolyeah/Semester 7/MSIB 7/Polytron/Tugas Pak Sutisna/Support File/register_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_tb
