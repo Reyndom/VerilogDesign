@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time: 0 | y0 = 0000 | y1 = 0000 | y2 = 0000 | y3 = 0000 | y4 = 0000 | y5 = 0000
+Time: 135000 | y0 = 3790 | y1 = e85f | y2 = ef2a | y3 = 2f93 | y4 = 0f8d | y5 = eb8b
+Time: 145000 | y0 = 2262 | y1 = 16c9 | y2 = 2bfe | y3 = 19fd | y4 = 312e | y5 = 3061
+Time: 155000 | y0 = 26c7 | y1 = 292f | y2 = 34c7 | y3 = 16c7 | y4 = 41f9 | y5 = 5330
+Time: 165000 | y0 = ca61 | y1 = 15fc | y2 = 0ec8 | y3 = d062 | y4 = f393 | y5 = 14c7
+Time: 175000 | y0 = 212f | y1 = 2d96 | y2 = 3060 | y3 = 1f30 | y4 = 3993 | y5 = 29f9
+Time: 185000 | y0 = 0000 | y1 = 0000 | y2 = 0000 | y3 = 0000 | y4 = 0000 | y5 = 0000
+$stop called at time : 210 ns : File "D:/Coolyeah/Semester7/MSIB7/Polytron/Tugas_Pak_Sutisna/Systolic 6x6/systolic6x6.srcs/sim_1/new/systolic6x6_tb.v" Line 114
